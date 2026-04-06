@@ -41,16 +41,15 @@ Each module is independent and can be run separately.
 
 ### Python Scripts
 - Run using Python 3:
-```bash
+```
+bash
 python main.py
-
-Example raw sensor data is provided in:
-
-main/data
+```
+Example raw sensor data is provided in "main/data"
 **Notes**
 This repository reflects an early-stage prototype
 Code builds on existing SDKs and hardware interfaces
-No full system integration pipeline is implemented yet
+Components are entirely independent of each other
 
 Author
 Vedant
