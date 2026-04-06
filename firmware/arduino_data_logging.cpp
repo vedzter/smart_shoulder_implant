@@ -1,3 +1,5 @@
+// Description: Reads sensor data via ADS1115 and outputs serial data
+
 #include <Wire.h>
 #include <Adafruit_ADS1X15.h>
 // ===== ADC OBJECT =====
