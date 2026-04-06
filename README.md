@@ -24,8 +24,11 @@ The project consists of three independent modules:
 ## Repository Structure
 
 firmware/ → Arduino-based data acquisition
+
 robotics/ → Robot arm control scripts
+
 data_acquisition/ → Sensor data logging (BOTA sensor)
+
 data/ → Sample raw data
 
 ## Getting Started
